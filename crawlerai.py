@@ -11,21 +11,21 @@ def discover_site_urls(homepage):
     base = f"{parsed.scheme}://{parsed.netloc}"
     urls = set()
 
-    # robots.txt
+    # Try robots.txt
     try:
         robots = requests.get(urljoin(base, '/robots.txt')).text
         urls.update(re.findall(r'(https?://[^\s]+)', robots))
     except:
         pass
 
-    # sitemap.xml
+    # Try sitemap.xml
     try:
         sitemap = requests.get(urljoin(base, '/sitemap.xml')).text
         urls.update(re.findall(r'<loc>(.*?)</loc>', sitemap))
     except:
         pass
 
-    # homepage crawl
+    # Try homepage crawl
     try:
         soup = BeautifulSoup(requests.get(homepage).text, 'html.parser')
         for link in soup.find_all('a', href=True):
@@ -40,11 +40,19 @@ def discover_site_urls(homepage):
 @app.route('/discover', methods=['GET'])
 def discover():
     homepage = request.args.get('url')
+    filter_string = request.args.get('filter', '')  # optional
+
     if not homepage:
         return jsonify({'error': 'Missing url parameter'}), 400
 
-    urls = discover_site_urls(homepage)
-    return jsonify({'discovered_urls': urls})
+    all_urls = discover_site_urls(homepage)
+
+    if filter_string:
+        filtered_urls = [url for url in all_urls if filter_string in url]
+    else:
+        filtered_urls = all_urls
+
+    return jsonify({'discovered_urls': filtered_urls})
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
