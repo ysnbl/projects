@@ -25,20 +25,20 @@ def discover_site_urls(homepage):
     #except:
      #   pass
 
-    sitemap_paths = [
-        "/sitemap.xml",
-        "/sitemap_index.xml",
-        "/site-map.xml",
-        "/sitemap.html",
-        "/sitemap-en.xml",
-        "/sitemap-es.xml",
-        "/sitemap1.xml",
-        "/sitemap1_index.xml",
-        "/sitemap_index1.xml",
-        "/sitemap/sitemap.xml",
-        "/sitemap/sitemap-index.xml",
-        "/sitemap_index/sitemap.xml",
-     ]
+sitemap_paths = [
+    "/sitemap.xml",
+    "/sitemap_index.xml",
+    "/site-map.xml",
+    "/sitemap.html",
+    "/sitemap-en.xml",
+    "/sitemap-es.xml",
+    "/sitemap1.xml",
+    "/sitemap1_index.xml",
+    "/sitemap_index1.xml",
+    "/sitemap/sitemap.xml",
+    "/sitemap/sitemap-index.xml",
+    "/sitemap_index/sitemap.xml",
+]
 
 for path in sitemap_paths:
     try:
