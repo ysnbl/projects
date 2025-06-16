@@ -40,14 +40,12 @@ sitemap_paths = [
     "/sitemap_index/sitemap.xml",
 ]
 
-for path in sitemap_paths:
+for variant in sitemap_variants:
     try:
-        response = requests.get(urljoin(base, path), timeout=5)
-        if response.status_code == 200 and "<loc>" in response.text:
-            urls.update(re.findall(r"<loc>(.*?)</loc>", response.text))
+        sitemap = requests.get(urljoin(base, variant), timeout=5).text
+        urls.update(re.findall(r'<loc>(.*?)</loc>', sitemap))
     except:
         pass
-
 
 
     
