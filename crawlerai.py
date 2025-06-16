@@ -19,12 +19,38 @@ def discover_site_urls(homepage):
         pass
 
     # Try sitemap.xml
+    #try:
+     #   sitemap = requests.get(urljoin(base, '/sitemap.xml')).text
+      #  urls.update(re.findall(r'<loc>(.*?)</loc>', sitemap))
+    #except:
+     #   pass
+
+    sitemap_paths = [
+        "/sitemap.xml",
+        "/sitemap_index.xml",
+        "/site-map.xml",
+        "/sitemap.html",
+        "/sitemap-en.xml",
+        "/sitemap-es.xml",
+        "/sitemap1.xml",
+        "/sitemap1_index.xml",
+        "/sitemap_index1.xml",
+        "/sitemap/sitemap.xml",
+        "/sitemap/sitemap-index.xml",
+        "/sitemap_index/sitemap.xml",
+     ]
+
+for path in sitemap_paths:
     try:
-        sitemap = requests.get(urljoin(base, '/sitemap.xml')).text
-        urls.update(re.findall(r'<loc>(.*?)</loc>', sitemap))
+        response = requests.get(urljoin(base, path), timeout=5)
+        if response.status_code == 200 and "<loc>" in response.text:
+            urls.update(re.findall(r"<loc>(.*?)</loc>", response.text))
     except:
         pass
 
+
+
+    
     # Try homepage crawl
     try:
         soup = BeautifulSoup(requests.get(homepage).text, 'html.parser')
