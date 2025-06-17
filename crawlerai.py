@@ -42,7 +42,7 @@ sitemap_paths = [
 
 for variant in sitemap_variants:
     try:
-        sitemap = requests.get(urljoin(base, variant), timeout=5).text
+        sitemap = requests.get(urljoin(base, variant)).text
         urls.update(re.findall(r'<loc>(.*?)</loc>', sitemap))
     except:
         pass
