@@ -475,26 +475,7 @@ def filter_links():
             'root_filter': root
         }), 500
 
-@app.route('/discover-roots', methods=['GET'])
-def discover_roots():
-    """Find root URLs where individual store pages are built from"""
-    homepage = request.args.get('url')
-    if not homepage:
-        return jsonify({'error': 'Missing url parameter'}), 400
 
-    # Crawl website
-    all_urls = crawl_website(homepage)
-    
-    # Find store roots
-    store_roots = find_store_roots(all_urls)
-    
-    return jsonify({
-        'website': homepage,
-        'total_urls': len(all_urls),
-        'store_roots': store_roots,
-        'roots_count': len(store_roots),
-        'usage': 'Append store names to these roots to build individual store URLs'
-    })
 @app.route('/discover-roots', methods=['GET'])
 def discover_roots():
     """Find root URLs where individual store pages are built from"""
