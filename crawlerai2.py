@@ -462,7 +462,7 @@ def filter_links():
             'crawled_url': url,
             'root_filter': root,
             'total_urls_discovered': len(all_urls),
-            'filtered_links': unique_filtered_links[:10],
+            'filtered_links': unique_filtered_links,
             'filtered_count': len(unique_filtered_links)
         })
         
