@@ -538,24 +538,32 @@ def llama_endpoint():
     else:
         return jsonify({'error': f'Llama API call failed: {llama_result["error"]}'}), 500
 
+
 @app.route('/discover', methods=['GET'])
 def discover():
     """Find store directory pages"""
     homepage = request.args.get('url')
+    filter_text = request.args.get('filter')  # New optional filter argument
+
     if not homepage:
         return jsonify({'error': 'Missing url parameter'}), 400
 
     # Crawl website
     all_urls = crawl_website(homepage)
-    
+
     # Find directory pages
     directories = find_directory_pages(all_urls)
-    
+
+    # Filter results if filter_text is provided
+    if filter_text:
+        directories = [url for url in directories if filter_text.lower() in url.lower()]
+
     return jsonify({
         'website': homepage,
         'total_urls': len(all_urls),
         'discovered_urls': directories,
-        'directory_count': len(directories)
+        'directory_count': len(directories),
+        'filtered_by': filter_text if filter_text else None
     })
 
 
