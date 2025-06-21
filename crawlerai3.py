@@ -98,7 +98,7 @@ URLs:
 {chr(10).join(all_urls[:100])}
 
 Return:
-{{"store_root": "url",}}"""
+{{"store_roots": "url",}}"""
 
     llama_response = call_llama(prompt)
     parsed = extract_json(llama_response)
