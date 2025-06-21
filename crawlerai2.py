@@ -627,7 +627,7 @@ def parse_shop():
            {clean_text}
 
            Extract these fields if available (use null if not found):
-           - store_name: The name of the store/shop
+           - store_name: The name of the store/shop (this can not be the same as the mall name)
            - description: Brief description of what they sell or do
            - phone: Phone number
            - hours: Opening hours or schedule
