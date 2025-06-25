@@ -6,3 +6,4 @@ python-dotenv
 huggingface_hub
 fuzzywuzzy
 python-Levenshtein
+pandas
