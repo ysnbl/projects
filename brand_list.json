@@ -1,22 +1,1054 @@
 [
   {
-    "id": "6f2bad27-59b7-4505-9d56-9eec7ad1ed70",
-    "name": "adidas Badge of Sport"
+    "BRAND ID": "6f2bad27-59b7-4505-9d56-9eec7ad1ed70",
+    "BRAND NAME": "adidas Badge of Sport"
   },
   {
-    "id": "3886ad02-d1aa-466e-ab09-a08decd9bfb0",
-    "name": "adidas Originals"
+    "BRAND ID": "3886ad02-d1aa-466e-ab09-a08decd9bfb0",
+    "BRAND NAME": "adidas Originals"
   },
   {
-    "id": "9e59ee78-6847-457f-834e-5fced19ccdd9",
-    "name": "adidas Outlet"
+    "BRAND ID": "9e59ee78-6847-457f-834e-5fced19ccdd9",
+    "BRAND NAME": "adidas Outlet"
   },
   {
-    "id": "feeda402-c74e-4f06-8042-3330fb84328f",
-    "name": "Alex and Ani"
+    "BRAND ID": "feeda402-c74e-4f06-8042-3330fb84328f",
+    "BRAND NAME": "Alex and Ani"
   },
   {
-    "id": "18938e0e-210a-4387-89b2-6152cdd6b4ed",
-    "name": "ASICS"
+    "BRAND ID": "18938e0e-210a-4387-89b2-6152cdd6b4ed",
+    "BRAND NAME": "ASICS"
+  },
+  {
+    "BRAND ID": "c4cbcab5-5da9-4a52-9bef-bd5c4665b03e",
+    "BRAND NAME": "Browns Shoes"
+  },
+  {
+    "BRAND ID": "9f409f88-0999-40cd-983c-745df6c7baa9",
+    "BRAND NAME": "Buckle"
+  },
+  {
+    "BRAND ID": "5dbd2603-1ad7-4aeb-afda-0c55b0b68afd",
+    "BRAND NAME": "Buckle Youth"
+  },
+  {
+    "BRAND ID": "66a34af6-880f-4d19-b155-d4533c45a16f",
+    "BRAND NAME": "Chatters Hair Salon"
+  },
+  {
+    "BRAND ID": "04f04a7d-85e2-4606-bf47-14134fa4ac96",
+    "BRAND NAME": "Enviro Trends"
+  },
+  {
+    "BRAND ID": "ae0f52f3-1882-456f-a87c-d9cd34b73041",
+    "BRAND NAME": "Caryl Baker Visage"
+  },
+  {
+    "BRAND ID": "9d3598df-2ac0-42b7-b51c-79abc27d0855",
+    "BRAND NAME": "Converse"
+  },
+  {
+    "BRAND ID": "0df9ebdc-4507-4436-91b7-ab99156ec6ed",
+    "BRAND NAME": "Daniel's Jewelers"
+  },
+  {
+    "BRAND ID": "de4515e3-94e6-42d8-93c4-3cc88650dce3",
+    "BRAND NAME": "EXPRESS"
+  },
+  {
+    "BRAND ID": "8a8acae7-60c6-4f45-b51e-95008e87cb06",
+    "BRAND NAME": "Express Factory Outlet"
+  },
+  {
+    "BRAND ID": "bde461fd-aee7-487b-b5ab-d7324be3655d",
+    "BRAND NAME": "Express Edit"
+  },
+  {
+    "BRAND ID": "56e3c77f-01c1-4a75-91f7-cd228624e9e0",
+    "BRAND NAME": "Fabletics"
+  },
+  {
+    "BRAND ID": "a9fe0f91-e897-4f79-b87b-904b00aeb13e",
+    "BRAND NAME": "WIRELESSWAVE"
+  },
+  {
+    "BRAND ID": "7ce55323-0b31-4fa5-b23b-ac8a9545c048",
+    "BRAND NAME": "tbooth wireless"
+  },
+  {
+    "BRAND ID": "8e63ac61-c5df-4711-883f-dc090d99a6c0",
+    "BRAND NAME": "Globo Shoes"
+  },
+  {
+    "BRAND ID": "775c2fcc-8577-44f5-87a6-285af4b61194",
+    "BRAND NAME": "George Richards"
+  },
+  {
+    "BRAND ID": "2631769c-7556-4d2b-8757-3c7023a01050",
+    "BRAND NAME": "Tip Top"
+  },
+  {
+    "BRAND ID": "32bb70d1-461a-45a8-aa37-5ad01442493e",
+    "BRAND NAME": "Mr. Big and Tall"
+  },
+  {
+    "BRAND ID": "110fbdeb-02d6-4369-9bd3-c5db64778419",
+    "BRAND NAME": "GUESS"
+  },
+  {
+    "BRAND ID": "5fbb7026-f9be-4d79-835a-8db86b248d5d",
+    "BRAND NAME": "GUESS Factory"
+  },
+  {
+    "BRAND ID": "ad6ec073-01e8-464a-991a-9229e9d6e0f3",
+    "BRAND NAME": "GUESS Accessories"
+  },
+  {
+    "BRAND ID": "5608fc6a-3d99-4936-9372-87731e2f469f",
+    "BRAND NAME": "G by GUESS"
+  },
+  {
+    "BRAND ID": "55f17c1a-ee41-408e-aed4-f4ab874fd663",
+    "BRAND NAME": "Marciano by GUESS"
+  },
+  {
+    "BRAND ID": "3dee0926-f2e8-4d0a-a410-d7a72a14be8e",
+    "BRAND NAME": "Hakim Optical"
+  },
+  {
+    "BRAND ID": "3ada261f-8c0d-4480-ad5a-66d6e9747b6c",
+    "BRAND NAME": "Jockey"
+  },
+  {
+    "BRAND ID": "d402a8c3-b3de-4db2-9529-d240ed6cd764",
+    "BRAND NAME": "Kiehl's"
+  },
+  {
+    "BRAND ID": "f4b6bc0a-ebf9-4ce6-8cbf-1b6450edfd5a",
+    "BRAND NAME": "La Vie en Rose"
+  },
+  {
+    "BRAND ID": "3d8b94fe-3d6a-4789-9ec2-c1490367ab66",
+    "BRAND NAME": "Bikini Village"
+  },
+  {
+    "BRAND ID": "82d790af-7b0c-4819-ae0b-1f3e041e6acc",
+    "BRAND NAME": "Lacoste Boutique"
+  },
+  {
+    "BRAND ID": "b2902713-9eb3-4847-987e-b9db6bb3f334",
+    "BRAND NAME": "Lacoste Outlet"
+  },
+  {
+    "BRAND ID": "6e9121b7-a824-473f-92be-c811af2ff6c4",
+    "BRAND NAME": "Levi's CA Mainline"
+  },
+  {
+    "BRAND ID": "73f3044f-f0b0-4744-91e5-d5043f50596c",
+    "BRAND NAME": "Levi's CA Outlet"
+  },
+  {
+    "BRAND ID": "4a9fb298-bc33-419f-bce9-b12f075203a7",
+    "BRAND NAME": "Lindt Chocolate AU"
+  },
+  {
+    "BRAND ID": "bb7b5571-8ffe-421c-af8d-21da30b26b3a",
+    "BRAND NAME": "Lindt Chocolate CA"
+  },
+  {
+    "BRAND ID": "b036a2dd-2498-4735-8b2e-ecbca9b2984d",
+    "BRAND NAME": "Lindt Chocolate UK"
+  },
+  {
+    "BRAND ID": "a80e72cb-da58-483a-a382-b8ab01d416a2",
+    "BRAND NAME": "LUSH"
+  },
+  {
+    "BRAND ID": "06dba465-3619-4976-831d-84d30e02a26f",
+    "BRAND NAME": "Lovesac"
+  },
+  {
+    "BRAND ID": "f5023b53-9487-4461-9c9a-9a6b60d78f82",
+    "BRAND NAME": "OPSM"
+  },
+  {
+    "BRAND ID": "fc6fdc65-c274-4972-8430-f0447235c805",
+    "BRAND NAME": "Laubman & Pank"
+  },
+  {
+    "BRAND ID": "bbcc22bf-6b04-4fba-bd61-81548e1fc428",
+    "BRAND NAME": "Sunglass Hut"
+  },
+  {
+    "BRAND ID": "0f368319-08f6-483b-ba8f-71d3662510a5",
+    "BRAND NAME": "Oakley"
+  },
+  {
+    "BRAND ID": "8085808f-6b2e-4714-92a1-ccc67a648258",
+    "BRAND NAME": "Pearle Vision"
+  },
+  {
+    "BRAND ID": "0257da53-7379-4b0e-9e16-2c236ce1eb4d",
+    "BRAND NAME": "Michael Hill"
+  },
+  {
+    "BRAND ID": "a6c05cca-d00d-4f35-9a09-10f85872aeeb",
+    "BRAND NAME": "Michael Hill Outlet"
+  },
+  {
+    "BRAND ID": "639ff1ce-00de-444d-8eb9-5e5b0216f136",
+    "BRAND NAME": "Nespresso US"
+  },
+  {
+    "BRAND ID": "b7b34d55-50e1-47eb-9bfa-bee269459033",
+    "BRAND NAME": "Nespresso CA"
+  },
+  {
+    "BRAND ID": "fd470692-f188-4539-96e0-33f5b0d53554",
+    "BRAND NAME": "Nordstrom Rack"
+  },
+  {
+    "BRAND ID": "1853b8a4-63a7-4fb9-a973-3a27bdd5e1b4",
+    "BRAND NAME": "Pandora"
+  },
+  {
+    "BRAND ID": "befc8cdf-068d-4040-a78a-452028702344",
+    "BRAND NAME": "Puma"
+  },
+  {
+    "BRAND ID": "133a04a6-5ed7-45b7-9821-2bbbce2f4d5f",
+    "BRAND NAME": "Reitmans"
+  },
+  {
+    "BRAND ID": "8e494e69-022a-4ada-8431-36ca613f2f2c",
+    "BRAND NAME": "Sephora CA"
+  },
+  {
+    "BRAND ID": "5954b76e-8902-4f74-a5d2-7480d7361963",
+    "BRAND NAME": "Roots"
+  },
+  {
+    "BRAND ID": "912328ff-b654-41f6-998b-8192664134c2",
+    "BRAND NAME": "Roots Recall"
+  },
+  {
+    "BRAND ID": "a0c8ea98-429c-4fc2-b698-bda7a586de0d",
+    "BRAND NAME": "Roots 73"
+  },
+  {
+    "BRAND ID": "625ee65c-8d7c-4fce-87a6-4c28204ba18a",
+    "BRAND NAME": "Roots Kids"
+  },
+  {
+    "BRAND ID": "a6fb91da-a8ce-409f-8e5a-06c065c36a60",
+    "BRAND NAME": "Stitch It"
+  },
+  {
+    "BRAND ID": "04c31c3e-ffe6-47d3-b358-8f18b5996333",
+    "BRAND NAME": "Tempur-Pedic"
+  },
+  {
+    "BRAND ID": "9464ee3b-be4d-4937-b1ba-ce33d7f380d5",
+    "BRAND NAME": "Fragrance Outlet"
+  },
+  {
+    "BRAND ID": "1df85d70-62f3-4f86-8570-c4c45badc7a7",
+    "BRAND NAME": "Perfumania"
+  },
+  {
+    "BRAND ID": "5de38be0-0b63-4ea0-aeb6-07055cd35d0e",
+    "BRAND NAME": "Designer Fragrances"
+  },
+  {
+    "BRAND ID": "ac144ef3-39f8-4ca9-abec-b3078f135436",
+    "BRAND NAME": "Tommy Bahama"
+  },
+  {
+    "BRAND ID": "2ccd262e-d768-42c7-a71c-e49f3147a338",
+    "BRAND NAME": "Tommy Bahama Outlet"
+  },
+  {
+    "BRAND ID": "2eb5555a-fabe-4585-9982-ea0675c0a6d7",
+    "BRAND NAME": "Under Armour Brand House"
+  },
+  {
+    "BRAND ID": "c353db11-bcda-43d8-9e1e-fe43ca6c30d4",
+    "BRAND NAME": "Under Armour Factory House"
+  },
+  {
+    "BRAND ID": "b61cd31c-e3e1-4f37-a3f7-3f4c7fb71d4f",
+    "BRAND NAME": "Under Armour Clearance House"
+  },
+  {
+    "BRAND ID": "d65b7edf-357f-438f-8791-0fc422914f68",
+    "BRAND NAME": "UNTUCKit"
+  },
+  {
+    "BRAND ID": "d2993d14-99cb-46db-ae4a-aa6cdab3625b",
+    "BRAND NAME": "UNTUCKit Outlet"
+  },
+  {
+    "BRAND ID": "97de633d-d397-4efb-819f-82bee73715c0",
+    "BRAND NAME": "Vera Bradley"
+  },
+  {
+    "BRAND ID": "59c9cb79-f226-49ed-9d3c-5103ae4c3497",
+    "BRAND NAME": "Vera Bradley Outlet Store"
+  },
+  {
+    "BRAND ID": "15423450-9c66-474b-ba2f-27abda0ee146",
+    "BRAND NAME": "THIS IS A TEST BRAND FOR AUSTIN"
+  },
+  {
+    "BRAND ID": "88e5d96d-cc93-4b4f-b640-0398f1e20c2d",
+    "BRAND NAME": "Engagement Agents (Development)"
+  },
+  {
+    "BRAND ID": "5192014a-2f89-4ab6-a0bf-8e367bb37018",
+    "BRAND NAME": "Test Retailer"
+  },
+  {
+    "BRAND ID": "3747e240-4bc9-4d61-8d97-e7b166354342",
+    "BRAND NAME": "Vans"
+  },
+  {
+    "BRAND ID": "464b2e20-b7d4-44e7-b84e-1e94f6b688ce",
+    "BRAND NAME": "La Vie en Rose Outlet"
+  },
+  {
+    "BRAND ID": "f1ecf4ac-ac73-4944-9e24-b28714ffd36e",
+    "BRAND NAME": "La Vie en Rose Combo"
+  },
+  {
+    "BRAND ID": "8d76a1a7-96e9-4fd3-9080-84757bca79fa",
+    "BRAND NAME": "Purple"
+  },
+  {
+    "BRAND ID": "bb0eb8fa-fe7f-47d1-80ca-cd10e4bb8fed",
+    "BRAND NAME": "Green Apple"
+  },
+  {
+    "BRAND ID": "1a80e50f-f15b-478a-bca6-8d1938cb253b",
+    "BRAND NAME": "Test Retailer Outlet"
+  },
+  {
+    "BRAND ID": "92c04f4b-37d7-492c-8ec6-da10898f35c3",
+    "BRAND NAME": "Test Brand"
+  },
+  {
+    "BRAND ID": "26c6e642-cc1d-42b2-8753-d47d72126cb0",
+    "BRAND NAME": "California Fish Grill"
+  },
+  {
+    "BRAND ID": "c181a5a8-f293-47fb-bd22-aea33188c10c",
+    "BRAND NAME": "Cluck Kitchen"
+  },
+  {
+    "BRAND ID": "bad3cb78-e014-4ce6-8b5e-1c6043ca9473",
+    "BRAND NAME": "Bob's Discount Furniture"
+  },
+  {
+    "BRAND ID": "a2f462a7-4fcd-4bd1-a218-def870135e88",
+    "BRAND NAME": "Meek House"
+  },
+  {
+    "BRAND ID": "52328c63-edfc-4139-aa7d-10a45745d00d",
+    "BRAND NAME": "Gap"
+  },
+  {
+    "BRAND ID": "3c152e67-d2da-458e-8d3d-deaa0d435a30",
+    "BRAND NAME": "Columbia Sportswear"
+  },
+  {
+    "BRAND ID": "e01ceaee-45d1-43a8-a4ac-2e524970a6c3",
+    "BRAND NAME": "24 Hour Fitness"
+  },
+  {
+    "BRAND ID": "04d317ad-e816-44e2-a0be-b3353235d9b2",
+    "BRAND NAME": "76 Gas Station"
+  },
+  {
+    "BRAND ID": "931689cf-39dd-4f7c-8293-9d8e18cc268a",
+    "BRAND NAME": "Active Ride Shop"
+  },
+  {
+    "BRAND ID": "f7d95b4c-87c1-46b9-9e7b-4bb236da2f78",
+    "BRAND NAME": "Aldi"
+  },
+  {
+    "BRAND ID": "f21f0630-877e-4158-b7b2-b0b01f854c3c",
+    "BRAND NAME": "Bahama Buck's"
+  },
+  {
+    "BRAND ID": "5bb24c69-fdfe-4215-a070-ef51d6f68d8c",
+    "BRAND NAME": "Banana Republic"
+  },
+  {
+    "BRAND ID": "9f9676b7-06e6-46b7-be35-97a7601bd3ff",
+    "BRAND NAME": "Barnes & Noble"
+  },
+  {
+    "BRAND ID": "6463cd08-9c84-414b-8997-f8f8c318792b",
+    "BRAND NAME": "Bath & Body Works"
+  },
+  {
+    "BRAND ID": "1493bce4-7cec-4806-bf90-6e2b91ff45d2",
+    "BRAND NAME": "Bed Bath & Beyond"
+  },
+  {
+    "BRAND ID": "b115a719-3000-4137-ad21-a555fd14beba",
+    "BRAND NAME": "Beverages & More"
+  },
+  {
+    "BRAND ID": "0b089c99-2078-4002-9a7c-104dcb370607",
+    "BRAND NAME": "BuyBuy Baby"
+  },
+  {
+    "BRAND ID": "036b9692-35c8-4ca2-a94d-1518a0fbee57",
+    "BRAND NAME": "Café Rio"
+  },
+  {
+    "BRAND ID": "06d9c399-0519-4bad-be09-f982cb2cb2e7",
+    "BRAND NAME": "Chick-Fil-A"
+  },
+  {
+    "BRAND ID": "e633e557-af22-4070-ac9b-5819a3055582",
+    "BRAND NAME": "Chipotle Mexican Grill"
+  },
+  {
+    "BRAND ID": "fc7533be-4af9-4ed1-8a4d-764f5884f55e",
+    "BRAND NAME": "Cold Stone Creamery"
+  },
+  {
+    "BRAND ID": "83540d1e-9df6-41de-ade0-5fcd4fd5cbd0",
+    "BRAND NAME": "Cost Plus"
+  },
+  {
+    "BRAND ID": "29bf541d-aa8f-4894-91a1-faaeee0b58e3",
+    "BRAND NAME": "Crumbl Cookies"
+  },
+  {
+    "BRAND ID": "3cc64d9d-1d53-4e01-a2d7-f4d3c87b73cd",
+    "BRAND NAME": "DSW"
+  },
+  {
+    "BRAND ID": "53b7ff8c-e37e-4a18-b510-ddd035c21f9b",
+    "BRAND NAME": "Famous Dave's BBQ"
+  },
+  {
+    "BRAND ID": "d9b4f0a9-164f-4f9d-beb4-b9e7b9b7054c",
+    "BRAND NAME": "Famous Footwear"
+  },
+  {
+    "BRAND ID": "78a86ce9-f1fd-4ae9-bc27-160be5eb5c20",
+    "BRAND NAME": "Farmer Boys"
+  },
+  {
+    "BRAND ID": "807476ec-289c-41a6-b26a-a2add52dc5c0",
+    "BRAND NAME": "Five Below"
+  },
+  {
+    "BRAND ID": "e7255359-9e4b-453c-9d08-de66364ff4aa",
+    "BRAND NAME": "Gamestop"
+  },
+  {
+    "BRAND ID": "383860e7-c0ae-43b0-a1e1-14ce6e912cdc",
+    "BRAND NAME": "Habit Burger"
+  },
+  {
+    "BRAND ID": "dde6559f-6e18-4321-8445-01033535c8a0",
+    "BRAND NAME": "Harkins Theatres"
+  },
+  {
+    "BRAND ID": "6834b687-18ab-4c71-9e1c-bdd96bffffc6",
+    "BRAND NAME": "Hobby Lobby"
+  },
+  {
+    "BRAND ID": "9cbcb4a7-e3ec-44af-a1a2-9f00ec260465",
+    "BRAND NAME": "Jamba Juice"
+  },
+  {
+    "BRAND ID": "d0ec7f71-518f-44b1-995b-ad1cb197ad4e",
+    "BRAND NAME": "JoJo's Grill-A-Dog"
+  },
+  {
+    "BRAND ID": "9bfd774f-a1db-4fe7-a76c-53171a5be671",
+    "BRAND NAME": "Kay Jewelers"
+  },
+  {
+    "BRAND ID": "e3ce3219-9f71-4b2c-9a4a-7fff596edb23",
+    "BRAND NAME": "Kirkland's"
+  },
+  {
+    "BRAND ID": "314c0a5c-47cf-47e1-9240-af25e023e9c7",
+    "BRAND NAME": "Kohl's"
+  },
+  {
+    "BRAND ID": "ccc40f9b-b9c9-45f2-86ce-f5b613dfd869",
+    "BRAND NAME": "Lane Bryant"
+  },
+  {
+    "BRAND ID": "413a340e-062d-4923-86b5-097dcef8291e",
+    "BRAND NAME": "Macaroni Grill"
+  },
+  {
+    "BRAND ID": "ffb05b0b-367f-46a8-b862-20ee18b6ee4a",
+    "BRAND NAME": "Michaels"
+  },
+  {
+    "BRAND ID": "3709460b-00bb-4890-9b6b-ed0f9890c6b0",
+    "BRAND NAME": "Miguel's Jr"
+  },
+  {
+    "BRAND ID": "54c6a3ed-81cc-4ccc-a0ca-994373a3e980",
+    "BRAND NAME": "MOD Pizza"
+  },
+  {
+    "BRAND ID": "09f2d07a-9ccc-4a3b-9a5b-01dc12f7f19d",
+    "BRAND NAME": "Nekter Juice"
+  },
+  {
+    "BRAND ID": "3039525e-ba14-4b1f-a800-9d5c253d0f32",
+    "BRAND NAME": "Nike - Mountain Grove"
+  },
+  {
+    "BRAND ID": "c88f5d14-7648-4770-904d-ac0976cabd6c",
+    "BRAND NAME": "Niko Niko Sushi"
+  },
+  {
+    "BRAND ID": "b4f089ce-c650-45c9-b01d-f2b84caeea47",
+    "BRAND NAME": "Ocean Pho"
+  },
+  {
+    "BRAND ID": "1ed63d85-190b-4782-873f-516c51774911",
+    "BRAND NAME": "Old Navy"
+  },
+  {
+    "BRAND ID": "7e59250f-ec03-4820-8bb2-1fe15f8345df",
+    "BRAND NAME": "Party City"
+  },
+  {
+    "BRAND ID": "23af7b2b-eaa6-4020-b502-9b967e18b379",
+    "BRAND NAME": "Petco"
+  },
+  {
+    "BRAND ID": "6f796de4-e709-4006-ae19-5b99fac25af4",
+    "BRAND NAME": "Red Robin"
+  },
+  {
+    "BRAND ID": "4aef63f4-381c-4b3a-aec0-f8b430175969",
+    "BRAND NAME": "Ross Dress for Less"
+  },
+  {
+    "BRAND ID": "5568786d-6d85-4b05-b9b2-d0a7ef86ab46",
+    "BRAND NAME": "Sharetea"
+  },
+  {
+    "BRAND ID": "55386a78-2116-4c72-be75-ae300f167547",
+    "BRAND NAME": "Shiki Restaurant"
+  },
+  {
+    "BRAND ID": "7fcac5c4-f436-40a4-926e-391a009c62cf",
+    "BRAND NAME": "Skechers"
+  },
+  {
+    "BRAND ID": "9e5f5e6e-7bc6-421b-92ed-94b5d1a85ef9",
+    "BRAND NAME": "Spectrum"
+  },
+  {
+    "BRAND ID": "98934a15-ae99-4328-bf37-c325c91de442",
+    "BRAND NAME": "Sport Clips"
+  },
+  {
+    "BRAND ID": "d188c9e3-54ce-4ff8-ba31-1442e707f7bd",
+    "BRAND NAME": "Starbucks"
+  },
+  {
+    "BRAND ID": "47e4391e-d5fc-4e5c-9ce0-7deac2f07ce6",
+    "BRAND NAME": "Target"
+  },
+  {
+    "BRAND ID": "98971b70-9c51-4eeb-8833-341433e2dc04",
+    "BRAND NAME": "Tilly's"
+  },
+  {
+    "BRAND ID": "70fe8883-c382-4c19-bc53-d82985dad352",
+    "BRAND NAME": "TJ Maxx"
+  },
+  {
+    "BRAND ID": "7081ef43-0ca3-4ec5-b4c8-6c3c16dff955",
+    "BRAND NAME": "Totally Nails & Spa"
+  },
+  {
+    "BRAND ID": "e817760d-8671-4023-b87d-e5986d0f07d4",
+    "BRAND NAME": "Ulta Beauty"
+  },
+  {
+    "BRAND ID": "cdb11215-356b-4ead-ada7-7e014bf0eaa4",
+    "BRAND NAME": "Verizon Wireless"
+  },
+  {
+    "BRAND ID": "8c4dcf9f-e45e-4c50-9ddb-89e85f2e2af1",
+    "BRAND NAME": "Vitamin Shoppe"
+  },
+  {
+    "BRAND ID": "46941c52-2e6a-4a48-9d13-a6dad7ce38d3",
+    "BRAND NAME": "Waba Grill"
+  },
+  {
+    "BRAND ID": "6e199bf9-7219-4d2a-b7ba-646129cb819d",
+    "BRAND NAME": "Wells Fargo Bank"
+  },
+  {
+    "BRAND ID": "fa717cdb-e622-49ff-abf4-b315d1848dff",
+    "BRAND NAME": "Yogurtland"
+  },
+  {
+    "BRAND ID": "545060b3-55f0-46b1-beda-6f27048da5c3",
+    "BRAND NAME": "Sephora US"
+  },
+  {
+    "BRAND ID": "b4874543-9579-4ab3-ab45-c1f4cf5fea2e",
+    "BRAND NAME": "Ben Bridge"
+  },
+  {
+    "BRAND ID": "3a8c0c5c-03ee-466d-a5f7-a5b9efa2578c",
+    "BRAND NAME": "GUESS Factory Accessories"
+  },
+  {
+    "BRAND ID": "5b9b828e-7884-4328-bac0-57903c39bb93",
+    "BRAND NAME": "Levi's US"
+  },
+  {
+    "BRAND ID": "54295766-db81-47b5-9243-73adee6c3528",
+    "BRAND NAME": "Aeropostale"
+  },
+  {
+    "BRAND ID": "125dbc72-a069-4e58-947b-9288fb1de731",
+    "BRAND NAME": "Aeropostale Factory"
+  },
+  {
+    "BRAND ID": "689fa5fa-bff5-4300-a00e-d598661c643f",
+    "BRAND NAME": "Yves Rocher"
+  },
+  {
+    "BRAND ID": "7af90448-064d-4696-8962-25901e4de448",
+    "BRAND NAME": "7 For All Mankind"
+  },
+  {
+    "BRAND ID": "185f2132-a4b1-468a-ab93-b5cc2d41afd1",
+    "BRAND NAME": "Splendid"
+  },
+  {
+    "BRAND ID": "fde84fa8-4578-4bdb-aab2-862c5fcfef03",
+    "BRAND NAME": "Test"
+  },
+  {
+    "BRAND ID": "a0974609-35ac-4a03-bea5-a1f6cfddac32",
+    "BRAND NAME": "Sur La Table"
+  },
+  {
+    "BRAND ID": "bee48e4e-fc99-4a7e-9c2c-f6afc5f42fd6",
+    "BRAND NAME": "Lexus"
+  },
+  {
+    "BRAND ID": "c8720a37-544b-48ee-abb1-f14747a3e352",
+    "BRAND NAME": "Lexus"
+  },
+  {
+    "BRAND ID": "d75af103-710a-4e65-941a-5a6a387b25b2",
+    "BRAND NAME": "Auto Test Brand"
+  },
+  {
+    "BRAND ID": "3ce0f013-9a38-4599-b8a7-8bf8b7e112b6",
+    "BRAND NAME": "Koko Black Chocolate"
+  },
+  {
+    "BRAND ID": "94a7144f-ec78-4fe7-a41d-69a1fe879482",
+    "BRAND NAME": "Timeworks"
+  },
+  {
+    "BRAND ID": "7c13bf53-9872-461d-a0ab-61bd646390e6",
+    "BRAND NAME": "Breitling"
+  },
+  {
+    "BRAND ID": "790dc71a-4bb1-4772-8b8d-582d511feba2",
+    "BRAND NAME": "Test"
+  },
+  {
+    "BRAND ID": "19ca6b4e-16af-4a43-9214-f7234f57b870",
+    "BRAND NAME": "Grill’d"
+  },
+  {
+    "BRAND ID": "9b4f16dd-9f90-4360-baca-45a60181a58c",
+    "BRAND NAME": "Test"
+  },
+  {
+    "BRAND ID": "1f6ee42e-c63f-4c48-897f-b0c027d8e4a6",
+    "BRAND NAME": "Sunrise Records"
+  },
+  {
+    "BRAND ID": "85a84423-114f-49ab-afb1-61bc3fbe8a5b",
+    "BRAND NAME": "FYE"
+  },
+  {
+    "BRAND ID": "90ab56b3-935d-4b0c-a59c-252e4435f601",
+    "BRAND NAME": "Nautica Outlet"
+  },
+  {
+    "BRAND ID": "d71749aa-c148-41f8-936b-98a6d1e7568a",
+    "BRAND NAME": "Lucky Brand"
+  },
+  {
+    "BRAND ID": "490e209f-aa68-4af2-8dea-f349ab5f5216",
+    "BRAND NAME": "Soft Surroundings"
+  },
+  {
+    "BRAND ID": "7be140e3-7fd2-4694-9eb9-a6e7e9ea55b5",
+    "BRAND NAME": "Lucky Brand Outlet"
+  },
+  {
+    "BRAND ID": "a5301a02-d8e6-41fe-9fac-54fa8e041cf5",
+    "BRAND NAME": "The Good Feet Store"
+  },
+  {
+    "BRAND ID": "b0239220-1f71-41a6-877a-a91201f4d571",
+    "BRAND NAME": "Nespresso ANZ"
+  },
+  {
+    "BRAND ID": "86a5ad69-073e-4f15-bc0d-b4375ac66443",
+    "BRAND NAME": "Terrex"
+  },
+  {
+    "BRAND ID": "baa2a4d0-c1e9-4952-a782-f2afecce3a30",
+    "BRAND NAME": "Levi's EU"
+  },
+  {
+    "BRAND ID": "0149e0fa-9e8d-409f-8f0d-69a442f76236",
+    "BRAND NAME": "Saje Natural Wellness"
+  },
+  {
+    "BRAND ID": "373a4cb8-6096-44fb-b113-b8efa738821a",
+    "BRAND NAME": "Indochino"
+  },
+  {
+    "BRAND ID": "414e9765-9e4c-4138-8233-c87bc93685f9",
+    "BRAND NAME": "Lucky Mobile"
+  },
+  {
+    "BRAND ID": "7100d02a-1ffb-48c8-b4d0-c146e5f631cd",
+    "BRAND NAME": "Kipling"
+  },
+  {
+    "BRAND ID": "63d28517-8d05-44b9-9cd1-e9ecdad6376e",
+    "BRAND NAME": "Rolex"
+  },
+  {
+    "BRAND ID": "ab2e2e58-14a2-4c42-9b06-91910260f195",
+    "BRAND NAME": "The Container Store"
+  },
+  {
+    "BRAND ID": "cc76972a-9756-43a6-b2b9-639fe48519dc",
+    "BRAND NAME": "Kate Spade New York"
+  },
+  {
+    "BRAND ID": "77d4c84d-0a01-4cc6-a528-4241309a08a5",
+    "BRAND NAME": "Kate Spade Outlet"
+  },
+  {
+    "BRAND ID": "efb53ce0-848c-43b5-a6b9-f5adceff1268",
+    "BRAND NAME": "The Cosmetics Company Store"
+  },
+  {
+    "BRAND ID": "44e6287d-a6c0-4729-84da-2502c16f2cf4",
+    "BRAND NAME": "New Brand"
+  },
+  {
+    "BRAND ID": "87147022-f54a-477f-9b3c-9163ae4efd3a",
+    "BRAND NAME": "Brooks Brothers Retail"
+  },
+  {
+    "BRAND ID": "6dddb144-ba5d-414a-a848-675149c7f78c",
+    "BRAND NAME": "Brooks Brothers Factory"
+  },
+  {
+    "BRAND ID": "11aedd67-8fa6-4b6b-ac81-0b4ed1a9a4db",
+    "BRAND NAME": "LEGO"
+  },
+  {
+    "BRAND ID": "03296246-4837-4e77-bbb9-fbc1baafcdd7",
+    "BRAND NAME": "Omaha Steaks"
+  },
+  {
+    "BRAND ID": "f39f0ae2-4e7b-4787-b7ce-eaaf5bf6fce9",
+    "BRAND NAME": "American Eagle Outfitters"
+  },
+  {
+    "BRAND ID": "7f7c0183-79b4-4ae4-a450-3e6cc1db4cc7",
+    "BRAND NAME": "aerie"
+  },
+  {
+    "BRAND ID": "2099fd30-a65b-43db-aedf-369bd304ca90",
+    "BRAND NAME": "Offline By Aerie"
+  },
+  {
+    "BRAND ID": "b9a14c95-cdac-441b-a880-b79e9ee72aed",
+    "BRAND NAME": "The Vitamin Shoppe"
+  },
+  {
+    "BRAND ID": "cfe4fac8-3eab-4f17-9cd5-0b909830be1a",
+    "BRAND NAME": "The Cosmetics Company Edit"
+  },
+  {
+    "BRAND ID": "4f7138ab-5e77-4c71-9a93-544d34798eff",
+    "BRAND NAME": "The Cosmetics Warehouse Store"
+  },
+  {
+    "BRAND ID": "15db5120-4175-4396-afc3-44d605785978",
+    "BRAND NAME": "Psycho Bunny"
+  },
+  {
+    "BRAND ID": "8862f8df-5931-49ab-bcbc-5ae526346f74",
+    "BRAND NAME": "Lovisa"
+  },
+  {
+    "BRAND ID": "6fa55a3e-d4c5-4e2f-9f5b-3828709cb3f0",
+    "BRAND NAME": "The Body Shop"
+  },
+  {
+    "BRAND ID": "8f2fa154-793d-4af9-ab30-2cc5a5edaf53",
+    "BRAND NAME": "Harry Rosen Outlet"
+  },
+  {
+    "BRAND ID": "da41b54b-f2f7-4ad7-a4a9-060139646cf3",
+    "BRAND NAME": "Hot Topic"
+  },
+  {
+    "BRAND ID": "04b56768-bf63-444a-9655-21e91b15ac34",
+    "BRAND NAME": "Best Buy"
+  },
+  {
+    "BRAND ID": "3316adcb-a406-45eb-94c3-ed33004ff5a4",
+    "BRAND NAME": "New Brand"
+  },
+  {
+    "BRAND ID": "5ac470c5-838d-4354-a7fb-70b51b44a598",
+    "BRAND NAME": "Harry Rosen"
+  },
+  {
+    "BRAND ID": "59dd912c-f38b-4fd8-84de-19b89dd1a810",
+    "BRAND NAME": "Timberland"
+  },
+  {
+    "BRAND ID": "c6264c06-98f9-45ab-b0ca-e385da86c794",
+    "BRAND NAME": "New Brandy"
+  },
+  {
+    "BRAND ID": "205cea28-d947-47bf-96d2-6c1b5419da2e",
+    "BRAND NAME": "Dr. Martens"
+  },
+  {
+    "BRAND ID": "ca994ff5-1503-4834-83e4-758b00c84cbb",
+    "BRAND NAME": "Primark"
+  },
+  {
+    "BRAND ID": "2fba63dd-3841-4464-999f-13384fd5905b",
+    "BRAND NAME": "Vision Works"
+  },
+  {
+    "BRAND ID": "37ebf4e6-9b9f-4c41-baf4-c35b36e260bb",
+    "BRAND NAME": "Demo Brand"
+  },
+  {
+    "BRAND ID": "f265f948-9953-4375-8061-82fef45c24f0",
+    "BRAND NAME": "LEGO®"
+  },
+  {
+    "BRAND ID": "8afc2393-4e6a-44df-bac2-e169480353a2",
+    "BRAND NAME": "Bluenotes"
+  },
+  {
+    "BRAND ID": "7259c3a3-acd8-41bb-bd6d-ed61ab2f1836",
+    "BRAND NAME": "Thriftys by Bluenotes | West 49"
+  },
+  {
+    "BRAND ID": "117a8bd2-1a0d-4611-af13-e4ae57056a30",
+    "BRAND NAME": "Thriftys by Bluenotes"
+  },
+  {
+    "BRAND ID": "987116c2-0f3e-40e6-8280-a16768ed246d",
+    "BRAND NAME": "Aeropostale"
+  },
+  {
+    "BRAND ID": "0a880325-eaf4-4162-9412-3312658e7dee",
+    "BRAND NAME": "Amnesia"
+  },
+  {
+    "BRAND ID": "e586d533-f454-4ca1-9a6b-99a1dd868dc9",
+    "BRAND NAME": "Aeropostale CA"
+  },
+  {
+    "BRAND ID": "42d52d5c-a24d-4263-8d1b-6c6a7a6706ea",
+    "BRAND NAME": "Famous Footwear"
+  },
+  {
+    "BRAND ID": "03e405ea-a87e-48d7-a70c-92f5850fe8ad",
+    "BRAND NAME": "Casper"
+  },
+  {
+    "BRAND ID": "47a3bfd6-d073-4b2f-bfe9-c801341b302f",
+    "BRAND NAME": "Zales Outlet"
+  },
+  {
+    "BRAND ID": "62db9597-2ea6-48c6-8bb7-12f037175a1d",
+    "BRAND NAME": "Suzy Shier"
+  },
+  {
+    "BRAND ID": "1f5f4fbb-a883-4f73-a205-49c93dd96cc6",
+    "BRAND NAME": "Lands' End"
+  },
+  {
+    "BRAND ID": "9de85aff-e4c9-4386-bc80-df4fc908a1b8",
+    "BRAND NAME": "West 49"
+  },
+  {
+    "BRAND ID": "07ec7b6d-cc26-4ab3-850b-d180cb0befd9",
+    "BRAND NAME": "Faherty Brand"
+  },
+  {
+    "BRAND ID": "97c45b3d-7b87-401f-8368-6aab99d153d2",
+    "BRAND NAME": "David Yurman"
+  },
+  {
+    "BRAND ID": "01db211e-8623-46c0-8ed9-433825c6c91e",
+    "BRAND NAME": "Clarks"
+  },
+  {
+    "BRAND ID": "972271aa-0d95-4215-9f93-41dee80a7355",
+    "BRAND NAME": "Clarks Outlet"
+  },
+  {
+    "BRAND ID": "791307b3-4ee1-464b-8776-cc7bf7af7215",
+    "BRAND NAME": "Ernest Jones"
+  },
+  {
+    "BRAND ID": "d3456f3c-569e-42e0-b905-59f9eafe621b",
+    "BRAND NAME": "H. Samuel"
+  },
+  {
+    "BRAND ID": "3ac461e6-8b88-41ff-ad99-1ca093f65570",
+    "BRAND NAME": "Nike"
+  },
+  {
+    "BRAND ID": "f0edb13a-0fe6-424c-90bd-bc56833daf1a",
+    "BRAND NAME": "Forever 21"
+  },
+  {
+    "BRAND ID": "a765bdf2-934d-4913-9385-dd363a7c32e3",
+    "BRAND NAME": "Forever 21 Outlet"
+  },
+  {
+    "BRAND ID": "c5665329-dbf2-4518-b4d4-3a8faa200506",
+    "BRAND NAME": "JD Sports"
+  },
+  {
+    "BRAND ID": "e897164e-f888-44cb-9997-ee220cc89dec",
+    "BRAND NAME": "Rack Room Shoes"
+  },
+  {
+    "BRAND ID": "7a189af6-2522-4134-9a38-dc1888c0bd0e",
+    "BRAND NAME": "Off Broadway Shoe Warehouse"
+  },
+  {
+    "BRAND ID": "a6363a05-79db-4137-9927-4751da6ce582",
+    "BRAND NAME": "New Balance"
+  },
+  {
+    "BRAND ID": "f37f7353-ca02-47cd-a29b-74d31f6be250",
+    "BRAND NAME": "New Balance Factory Store"
+  },
+  {
+    "BRAND ID": "34b0d84f-bf0f-41ed-b72a-3242f2546804",
+    "BRAND NAME": "Perry Ellis Fashion Outlet"
+  },
+  {
+    "BRAND ID": "9df3b7c0-3b65-4e1d-bb84-66f062630e7c",
+    "BRAND NAME": "Golf Apparel Shop"
+  },
+  {
+    "BRAND ID": "66d6a074-a898-4ab5-a39d-5d8623a98e0f",
+    "BRAND NAME": "Original Penguin"
+  },
+  {
+    "BRAND ID": "a9b6b1a1-2058-442b-8af4-aeb520c1b30d",
+    "BRAND NAME": "Perry Ellis"
+  },
+  {
+    "BRAND ID": "3b073435-9428-46a9-8bf6-5bc4c5520d0a",
+    "BRAND NAME": "Cubavera"
+  },
+  {
+    "BRAND ID": "fb49f21e-19eb-45ee-bc93-baf6e144ae29",
+    "BRAND NAME": "Flying Tiger Copenhagen - Belgium"
+  },
+  {
+    "BRAND ID": "e90f33e9-fda9-430a-90ab-fd36eaeaf768",
+    "BRAND NAME": "Flying Tiger Copenhagen - Cyprus"
+  },
+  {
+    "BRAND ID": "23fd2f86-50d4-4916-ac29-fdcfb4500b24",
+    "BRAND NAME": "Flying Tiger Copenhagen - Denmark"
+  },
+  {
+    "BRAND ID": "3da40ce8-cb57-4009-b6f8-e89749ad2267",
+    "BRAND NAME": "Flying Tiger Copenhagen - Spain"
+  },
+  {
+    "BRAND ID": "46e4af9d-1308-46e3-b78f-f88f8f7122aa",
+    "BRAND NAME": "Flying Tiger Copenhagen - France"
+  },
+  {
+    "BRAND ID": "d1d304b9-707b-4932-aa72-9e05ff23b328",
+    "BRAND NAME": "Flying Tiger Copenhagen - Greece"
+  },
+  {
+    "BRAND ID": "c96f792b-68ef-40ce-86da-38a0d5359210",
+    "BRAND NAME": "Flying Tiger Copenhagen - Netherlands"
+  },
+  {
+    "BRAND ID": "5fb89e92-15f0-4876-b3a8-aa3c549b0bec",
+    "BRAND NAME": "Flying Tiger Copenhagen - Norway"
+  },
+  {
+    "BRAND ID": "b8ca7a52-bdcc-43c6-8a7d-dade5e022418",
+    "BRAND NAME": "Sleep Country"
+  },
+  {
+    "BRAND ID": "ae06c49b-bf69-412e-8b2b-60346d3c955c",
+    "BRAND NAME": "Casper"
+  },
+  {
+    "BRAND ID": "d652f506-24bc-4dc2-a9a9-08b6136782b2",
+    "BRAND NAME": "Flying Tiger Copenhagen - Nordics"
+  },
+  {
+    "BRAND ID": "bccaf3d8-1f5b-4198-9c1c-dafd8a7e430a",
+    "BRAND NAME": "Flying Tiger Copenhagen - Italy"
+  },
+  {
+    "BRAND ID": "a2bf3989-7df4-4110-9ebc-2e57c9e0a8a3",
+    "BRAND NAME": "Dormez-Vous"
+  },
+  {
+    "BRAND ID": "5bf63682-790c-4281-8044-919c110a2334",
+    "BRAND NAME": "Best Buy Express"
+  },
+  {
+    "BRAND ID": "3c6df7eb-6671-48e1-af0e-036f8d8a9381",
+    "BRAND NAME": "A|X Armani Exchange"
+  },
+  {
+    "BRAND ID": "b766c243-0df0-4021-9f86-208c3b2a241f",
+    "BRAND NAME": "The Rest"
   }
 ]
