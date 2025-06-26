@@ -88,9 +88,9 @@ def find_store_root():
 
     prompt = f"""RESPOND IN JSON ONLY. NO EXPLANATIONS.
 
-These are URLs from a mall website. First, SELECT only the URLs containing the homepage URL, among which IDENTIFY the most likely root path used to build individual store pages. RETURN one result only.
+These are URLs from a mall website. First, SELECT only the URLs containing the {homepage} URL, among which IDENTIFY the most likely root path used to build individual store pages. RETURN one result only.
 
-Examples of roots: https://examplemall.com/stores/, https://examplemall.com/store-directory/
+Examples of roots: https://examplemall.com/stores/,
 
 Exclude news, blog, contact, about, events, deals, promotions...
 
