@@ -92,7 +92,24 @@ TEXT:
     except Exception as e:
         return jsonify({"error": str(e), "raw": response}), 500
 
-if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 5000))
-    app.run(host="0.0.0.0", port=port)
+
+@app.route('/check-url', methods=['GET'])
+def check_url():
+    url = request.args.get('url')
+    
+    if not url:
+        return jsonify({'error': 'Missing url parameter'}), 400
+
+    try:
+        response = requests.get(url, timeout=10)
+        if response.status_code == 200:
+            return jsonify({'result': url})
+        else:
+            return jsonify({'result': ''})
+    except requests.exceptions.RequestException as e:
+        print(f"Request failed: {e}")
+        return jsonify({'result': ''})
+
+if __name__ == '__main__':
+    app.run(host='0.0.0.0', port=5000)
 
